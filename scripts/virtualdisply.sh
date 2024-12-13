@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# File: /usr/local/bin/fakemonitor
+# File: /usr/local/bin/virtualdiaplay
 # FileMode: 0755
 
 function getModeLine() {
